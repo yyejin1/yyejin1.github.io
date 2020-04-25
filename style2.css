@@ -1,0 +1,19 @@
+header {
+    font-family: 'Almendra';
+    text-align: center;
+    grid-column: 1/-1;
+    border-bottom: 2px solid black;
+    padding: 15px 1.171875%;
+    grid-row: 1/2;
+    background-image: url(https://www.meadowlandshotel.com/wp-content/uploads/2019/07/horses-01-1366x768-fp_rm-fpoff_20_0.jpg);
+    overflow: hidden;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: cornsilk;
+  text-decoration: underline;
+}
+
+body {
+    background-color: blanchedalmond;
+}
